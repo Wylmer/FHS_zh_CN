@@ -11,7 +11,8 @@
 
 版本历史：
 > 2014.06.21 初始版本
-> 2014.09.08 将尾注改写为markdown原生格式。修正部分错误。
+> 2014.09.08 将尾注改写为markdown原生格式。修正部分错误。  
+> 2014.10.30 迁移到github
 
 作者：
 > Wylmer Wang &lt;wantinghard+@+gmail_com&gt;
