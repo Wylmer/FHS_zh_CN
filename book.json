@@ -1,0 +1,11 @@
+{
+    "name": "文件系统层次结构",
+    "version": "",
+    "description": "FHS中文版",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "Wylmer Wang <wantinghard@gmail.com>",
+    "license": "copyright 2014"
+}

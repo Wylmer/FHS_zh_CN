@@ -1,0 +1,82 @@
+﻿<!doctype html public '-//W3C//DTD HTML 4.0 Transitional //EN'>
+<html>
+<head>
+<title>2-requirements</title>
+<meta charset='UTF-8' />
+<meta name='generator' content='EverEdit' />
+<link href='D:\Program Files\Everedit\mode\markdown\default.css' rel='stylesheet'></link>
+<link href='D:\Program Files\Everedit\mode\markdown\prettify.css' rel='stylesheet'></link>
+<script type='text/javascript' src='D:\Program Files\Everedit\mode\markdown\prettify.js'></script>
+<script type='text/javascript' src='D:\Program Files\Everedit\mode\markdown\jquery-1.10.2.min.js'></script>
+<script type='text/javascript' src='D:\Program Files\Everedit\mode\markdown\toc.js'></script>
+</head>
+<body>
+<div id='generated-toc'></div>
+<h2>要求</h2>
+
+<p><code>/var</code>下要求有这样的文件夹或符号链接。</p>
+
+<table>
+<thead>
+<tr>
+  <th>文件夹</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tr>
+  <td>cache</td>
+  <td>应用程序缓存数据</td>
+</tr>
+<tr>
+  <td>lib</td>
+  <td>可变状态信息</td>
+</tr>
+<tr>
+  <td>local</td>
+  <td><code>/usr/local</code>的可变数据</td>
+</tr>
+<tr>
+  <td>lock</td>
+  <td>锁文件</td>
+</tr>
+<tr>
+  <td>log</td>
+  <td>日志文件和文件夹</td>
+</tr>
+<tr>
+  <td>opt</td>
+  <td><code>/opt</code>的可变数据</td>
+</tr>
+<tr>
+  <td>run</td>
+  <td>有关正在运行进程的数据</td>
+</tr>
+<tr>
+  <td>spool</td>
+  <td>应用程序spool数据</td>
+</tr>
+<tr>
+  <td>tmp</td>
+  <td>系统两次启动之间保留的临时文件</td>
+</tr>
+</table>
+
+
+<p>有几个文件夹是‘<strong>保留的</strong>’，就是说，轻易不许一些新的应用程序使用它们，有可能与旧的或系统中的用法冲突。它们是：</p>
+
+<ul>
+<li>/var/backups</li>
+<li>/var/cron</li>
+<li>/var/msgs</li>
+<li>/var/preserve</li>
+</ul>
+<script type='text/javascript'>
+$(document).ready(function(){
+  if($('code').length>0){
+    $('code').parent().addClass('prettyprint linenums');
+    prettyPrint();
+};
+});
+</script>
+</body>
+</html>
