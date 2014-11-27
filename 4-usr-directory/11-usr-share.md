@@ -52,9 +52,10 @@ zoneinfo	|时区信息和配置（可选）
 #### 4.11.4.2. 特殊选项
 
 如果安装了相应子系统，`/usr/share/dict`下必须有以下文件或符号链接：
-文件	|描述
+
+文件    |描述
 --------|--------------------
-words	英语单词表（可选）
+words	|英语单词表（可选）
 
 同时需要英式和美式拼写的站点可以将`words`链接到`/usr/share/dict/american-english`或`/usr/share/dict/british-english`。
 
