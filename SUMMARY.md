@@ -36,7 +36,7 @@
    * [/usr/sbin：非关键的标准系统二进制文件](4-usr-directory/10-usr-sbin.md)
    * [/usr/share：与架构独立的数据](4-usr-directory/11-usr-share.md)
    * [/usr/src：源代码（可选）](4-usr-directory/12-usr-src.md)
-* [/var层次结构](5-var-directory/README)
+* [/var层次结构](5-var-directory/README.md)
    * [用途](5-var-directory/1-purpose.md)
    * [要求](5-var-directory/2-requirements.md)
    * [特殊选项](5-var-directory/3-specific-options.md)
