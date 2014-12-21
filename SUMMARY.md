@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [介绍](1-introduction/README.md)
    * [目的](1-introduction/1-purpose.md)
    * [约定](1-introduction/2-conventions.md)
