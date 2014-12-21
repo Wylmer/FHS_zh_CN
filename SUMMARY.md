@@ -55,7 +55,7 @@
    * [/var/yp：网络信息服务（NIS）数据库（可选）](5-var-directory/16-var-yp.md)
 * [操作系统特定的附加说明](6-os-notes/README.md)
    * [Linux](6-os-notes/1-linux.md)
-* [附录](7-appendix/README)
+* [附录](7-appendix/README.md)
    * [FHS邮件列表](7-appendix/1-mailing-list.md)
    * [FHS的背景](7-appendix/2-background.md)
    * [总体原则](7-appendix/3-general-guideline.md)
