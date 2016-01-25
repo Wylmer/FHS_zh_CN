@@ -9,7 +9,7 @@
     "author": "Wylmer Wang <wantinghard@gmail.com>",
     "license": "copyright 2014",
     "plugins": [
-        "-betterchinese"
+        "betterchinese"
     ],
     "pluginsConfig": {}
 }
