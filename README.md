@@ -21,5 +21,6 @@
 
 ---
 > 如果您觉得这份工作对自己有帮助，欢迎表达支持，包括赞助。
-> [pay code](images/alipay.png)
+> ![alipay](images/alipay.png)
+
 
