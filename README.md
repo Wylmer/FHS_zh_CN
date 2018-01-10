@@ -20,8 +20,6 @@
 [在此阅读这本书](http://wylmer_cn.gitbooks.io/filesystem-hierarchy-standard/content/).
 
 ---
-```
-如果您觉得这份工作对自己有帮助，欢迎表达支持，包括赞助。
-本人的支付宝账户为Gmail邮箱。
-```
+> 如果您觉得这份工作对自己有帮助，欢迎表达支持，包括赞助。
+> [pay code](images/alipay.png)
 
